@@ -18,7 +18,6 @@ public class CocienteResto {
     public static void main(String[] args) {
         // Insert variable
         int dividendo, divisor, resto, cociente;
-        float result;
         Scanner input = new Scanner(System.in);
         System.out.println("Ingrese un número: ");
         dividendo = input.nextInt();
