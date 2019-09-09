@@ -30,6 +30,6 @@ public class MayorNumero {
             System.out.println("\nEl numero mayor es: " +  num2);
         }
             
-        }
+    }
     
 }
