@@ -37,7 +37,7 @@ public class Añosnacimiento {
         }else{
             System.out.println("\nNo es mayor de edad");
         }
-        System.out.println("\nSu edad es: "+edad);
+        System.out.println("\nSu edad es: " + edad);
     }
     
 }
